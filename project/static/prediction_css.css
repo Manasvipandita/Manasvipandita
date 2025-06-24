@@ -1,0 +1,12 @@
+body {
+    background-image: url('How to Turn Your Phone into a Mobile Office.jpeg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px #333
+  }
